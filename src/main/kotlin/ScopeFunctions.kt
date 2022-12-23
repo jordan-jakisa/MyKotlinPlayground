@@ -49,5 +49,6 @@ fun main(){
      numbers.also {
          println("Other numbers before adding four: $it")
      }.add("Four")
+    println("Numbers: $numbers")
 }
 

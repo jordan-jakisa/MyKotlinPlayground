@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="cities-array">
+        <item>Kampala</item>
+        <item>Nairobi</item>
+        <item>Kigali</item>
+        <item>Mombasa</item>
+        <item>Abuja</item>
+    </string-array>
+</resources>
